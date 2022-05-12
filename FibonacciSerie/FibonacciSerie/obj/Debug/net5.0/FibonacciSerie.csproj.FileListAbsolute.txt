@@ -1,0 +1,16 @@
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\bin\Debug\net5.0\FibonacciSerie.exe
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\bin\Debug\net5.0\FibonacciSerie.deps.json
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\bin\Debug\net5.0\FibonacciSerie.runtimeconfig.json
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\bin\Debug\net5.0\FibonacciSerie.runtimeconfig.dev.json
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\bin\Debug\net5.0\FibonacciSerie.dll
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\bin\Debug\net5.0\FibonacciSerie.pdb
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\obj\Debug\net5.0\FibonacciSerie.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\obj\Debug\net5.0\FibonacciSerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\obj\Debug\net5.0\FibonacciSerie.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\obj\Debug\net5.0\FibonacciSerie.AssemblyInfo.cs
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\obj\Debug\net5.0\FibonacciSerie.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\obj\Debug\net5.0\FibonacciSerie.dll
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\obj\Debug\net5.0\refint\FibonacciSerie.dll
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\obj\Debug\net5.0\FibonacciSerie.pdb
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\obj\Debug\net5.0\FibonacciSerie.genruntimeconfig.cache
+C:\Users\julio\Documents\.Projetos\C#-Lógica\FibonacciSerie\FibonacciSerie\obj\Debug\net5.0\ref\FibonacciSerie.dll
